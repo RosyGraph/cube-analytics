@@ -1,0 +1,469 @@
+processing draftlog: cube-draft_2021-01-17_11-05-draftlog_RosyGraph.txt...
+processing draftlog: cube-draft_2021-01-17_13-08-draftlog_RosyGraph.txt...
+processing draftlog: cube-draft_2021-01-17_11-05-draftlog_Jorbas.txt...
+processing draftlog: cube-draft_2021-01-17_13-08-draftlog_Waluigi.txt...
+processing draftlog: cube-draft_2021-01-17_11-05-draftlog_Waluigi.txt...
+processed 5 draftlogs.
+
+tier 1 cards:
+	Academy Ruins
+	Ancestral Recall
+	Azorius Signet
+	Bitterblossom
+	Black Lotus
+	Blood Crypt
+	Bolas's Citadel
+	Bribery
+	Chrome Mox
+	Counterspell
+	Cryptic Command
+	Dark Ritual
+	Darkslick Shores
+	Demonic Tutor
+	Dimir Signet
+	Electrolyze
+	Emry, Lurker of the Loch
+	Flooded Strand
+	Hallowed Fountain
+	Hullbreacher
+	Inquisition of Kozilek
+	Jace, the Mind Sculptor
+	Lodestone Golem
+	Mana Crypt
+	Mana Drain
+	Metalworker
+	Mind Twist
+	Mishra's Workshop
+	Mox Diamond
+	Mox Emerald
+	Mox Jet
+	Mox Pearl
+	Mox Sapphire
+	Myr Battlesphere
+	Pestermite
+	Phyrexian Revoker
+	Plateau
+	Ponder
+	Riftwing Cloudskate
+	Sacred Foundry
+	Smokestack
+	Snapcaster Mage
+	Sol Ring
+	Spell Pierce
+	Sword of Fire and Ice
+	Thalia, Guardian of Thraben
+	The Gitrog Monster
+	Thran Dynamo
+	Time Walk
+	Tinker
+	Tolarian Academy
+	Toxic Deluge
+	Volcanic Island
+	Walking Ballista
+	Wildfire
+	Winter Orb
+	Worn Powerstone
+	Wurmcoil Engine
+
+tier 2 cards:
+	Abrade
+	Ancestral Vision
+	Arid Mesa
+	Ashiok, Nightmare Weaver
+	Balance
+	Batterskull
+	Bloodchief's Thirst
+	Boros Signet
+	Brazen Borrower
+	Chain Lightning
+	Chandra, Torch of Defiance
+	Channel
+	Chart a Course
+	Consecrated Sphinx
+	Creeping Tar Pit
+	Daretti, Ingenious Iconoclast
+	Daze
+	Dig Through Time
+	Expansion // Explosion
+	Fact or Fiction
+	Fallen Shinobi
+	Firebolt
+	Gitaxian Probe
+	Godless Shrine
+	Golos, Tireless Pilgrim
+	Gush
+	Hangarback Walker
+	Imperial Recruiter
+	Imperial Seal
+	Kari Zev, Skyship Raider
+	Karn Liberated
+	Kiki-Jiki, Mirror Breaker
+	Kolaghan's Command
+	Kuldotha Forgemaster
+	Liliana of the Veil
+	Magma Jet
+	Mana Confluence
+	Mana Leak
+	Marsh Flats
+	Mindslaver
+	Mishra's Factory
+	Misty Rainforest
+	Monastery Swiftspear
+	Mystical Tutor
+	Porcelain Legionnaire
+	Preordain
+	Rakdos Signet
+	Remand
+	Restoration Angel
+	Rishadan Port
+	Scalding Tarn
+	Seasoned Pyromancer
+	Selesnya Signet
+	Shambling Vent
+	Shelldock Isle
+	Silent Clearing
+	Sphinx's Revelation
+	Splinter Twin
+	Steam Vents
+	Strip Mine
+	Teferi, Hero of Dominaria
+	Tezzeret, Agent of Bolas
+	Thalia, Heretic Cathar
+	Thieving Skydiver
+	Time Spiral
+	Time Warp
+	Timetwister
+	Treachery
+	Ulamog, the Ceaseless Hunger
+	Vampiric Tutor
+	Vendilion Clique
+	Watery Grave
+	Wheel of Fortune
+	Yawgmoth's Bargain
+	Young Pyromancer
+	Zealous Conscripts
+
+tier 3 cards:
+	Archangel Avacyn
+	Ashen Rider
+	Avacyn's Pilgrim
+	Badlands
+	Baleful Strix
+	Banefire
+	Baral, Chief of Compliance
+	Bayou
+	Beast Within
+	Bloodbraid Elf
+	Bloodghast
+	Botanical Sanctum
+	Burst Lightning
+	Crucible of Worlds
+	Cultivate
+	Dark Petition
+	Dreadhorde Arcanist
+	Elspeth, Knight-Errant
+	Enlightened Tutor
+	Exhume
+	Faithless Looting
+	Fiery Confluence
+	Frantic Search
+	Gamble
+	Garruk Wildspeaker
+	Gilded Lotus
+	Glen Elendra Archmage
+	Gonti, Lord of Luxury
+	Grim Monolith
+	Hazoret the Fervent
+	Hexdrinker
+	Hydroid Krasis
+	Hypnotic Specter
+	Karn, Scion of Urza
+	Library of Alexandria
+	Memory Jar
+	Monastery Mentor
+	Nahiri, the Harbinger
+	Natural Order
+	Nature's Claim
+	Night's Whisper
+	Noble Hierarch
+	Ophiomancer
+	Parallax Wave
+	Phantasmal Image
+	Phyrexian Metamorph
+	Rakdos's Return
+	Recurring Nightmare
+	Shallow Grave
+	Shrine of Burning Rage
+	Solemn Simulacrum
+	Street Wraith
+	Sulfuric Vortex
+	Taiga
+	Tangle Wire
+	Valakut Awakening
+	Venser, Shaper Savant
+	Vindicate
+	Yawgmoth, Thran Physician
+
+tier 4 cards:
+	Abbot of Keral Keep
+	Adanto Vanguard
+	Ajani Vengeant
+	Ancient Tomb
+	Arbor Elf
+	Armageddon
+	Avalanche Riders
+	Basalt Monolith
+	Bazaar of Baghdad
+	Birds of Paradise
+	Birthing Pod
+	Blackcleave Cliffs
+	Blade Splicer
+	Blightsteel Colossus
+	Bloodstained Mire
+	Bomat Courier
+	Bone Shredder
+	Bonecrusher Giant
+	Braids, Cabal Minion
+	Brain Freeze
+	Brain Maggot
+	Brainstorm
+	Breeding Pool
+	Brimaz, King of Oreskos
+	Burning of Xinye
+	Cabal Ritual
+	Carnage Tyrant
+	Cathartic Reunion
+	Celestial Colonnade
+	Char
+	Coalition Relic
+	Coercive Portal
+	Collective Brutality
+	Collector Ouphe
+	Corpse Dance
+	Council's Judgment
+	Courser of Kruphix
+	Craterhoof Behemoth
+	Crop Rotation
+	Dack Fayden
+	Damnation
+	Day of Judgment
+	Declaration in Stone
+	Deep Forest Hermit
+	Demonic Consultation
+	Deranged Hermit
+	Desperate Ritual
+	Disenchant
+	Dismember
+	Dragonlord Atarka
+	Dryad of the Ilysian Grove
+	Duress
+	Duskwatch Recruiter
+	Eladamri's Call
+	Elesh Norn, Grand Cenobite
+	Elspeth Conquers Death
+	Elspeth, Sun's Champion
+	Elvish Mystic
+	Embereth Shieldbreaker
+	Emrakul, the Aeons Torn
+	Emrakul, the Promised End
+	Entomb
+	Eternal Witness
+	Everflowing Chalice
+	Exploration
+	Falkenrath Gorger
+	Fastbond
+	Fatal Push
+	Fauna Shaman
+	Field of the Dead
+	Figure of Destiny
+	Finale of Devastation
+	Fire // Ice
+	Fireblast
+	Firedrinker Satyr
+	Flame Slash
+	Flickerwisp
+	Force Spike
+	Force of Negation
+	Fractured Identity
+	Fyndhorn Elves
+	Gaddock Teeg
+	Gaea's Cradle
+	Garruk Relentless
+	Geist of Saint Traft
+	Giant Killer
+	Gideon Jura
+	Gideon, Ally of Zendikar
+	Giver of Runes
+	Glorybringer
+	Goblin Guide
+	Goblin Rabblemaster
+	Goblin Welder
+	Grave Titan
+	Green Sun's Zenith
+	Grim Lavamancer
+	Griselbrand
+	Gruul Signet
+	Harmonize
+	Heartbeat of Spring
+	Heartless Act
+	Hero of Bladehold
+	Hissing Quagmire
+	Honor of the Pure
+	Horizon Canopy
+	Hornet Queen
+	Hymn to Tourach
+	Ignite Memories
+	Impulse
+	Incinerate
+	Inferno Titan
+	Inkwell Leviathan
+	Iona, Shield of Emeria
+	Isamaru, Hound of Konda
+	Jace, Vryn's Prodigy
+	Joraga Treespeaker
+	Karakas
+	Karmic Guide
+	Kinnan, Bonder Prodigy
+	Kitesail Freebooter
+	Knight of Autumn
+	Kodama's Reach
+	Koth of the Hammer
+	Kytheon, Hero of Akros
+	Laboratory Maniac
+	Land Tax
+	Lavaclaw Reaches
+	Leonin Relic-Warder
+	Life from the Loam
+	Lightning Bolt
+	Lightning Greaves
+	Lightning Helix
+	Lingering Souls
+	Living Death
+	Llanowar Elves
+	Lotus Bloom
+	Lotus Cobra
+	Lotus Petal
+	Lumbering Falls
+	Luminarch Aspirant
+	Maelstrom Pulse
+	Mana Vault
+	Massacre Wurm
+	Maze of Ith
+	Melira, Sylvok Outcast
+	Mesmeric Fiend
+	Mind's Desire
+	Mirari's Wake
+	Mother of Runes
+	Mulldrifter
+	Murderous Redcap
+	Murderous Rider
+	Mutavault
+	Mystic Confluence
+	Narset, Parter of Veils
+	Necromancy
+	Needle Spires
+	Nissa, Who Shakes the World
+	Nurturing Peatland
+	Oath of Druids
+	Oblivion Ring
+	Oona's Prowler
+	Oracle of Mul Daya
+	Orzhov Signet
+	Oust
+	Overgrown Tomb
+	Pack Rat
+	Palace Jailer
+	Palinchron
+	Pernicious Deed
+	Phyrexian Arena
+	Primeval Titan
+	Prismatic Vista
+	Progenitus
+	Questing Beast
+	Raging Ravine
+	Ramunap Excavator
+	Ravages of War
+	Ravenous Chupacabra
+	Reanimate
+	Reclamation Sage
+	Recruiter of the Guard
+	Regrowth
+	Remorseful Cleric
+	Repeal
+	Reveillark
+	Rite of Flame
+	Rofellos, Llanowar Emissary
+	Rotting Regisaur
+	Rune-Scarred Demon
+	Sakura-Tribe Elder
+	Savannah
+	Scavenging Ooze
+	Scrubland
+	Seachrome Coast
+	Seething Song
+	Selfless Spirit
+	Shark Typhoon
+	Sheltered Thicket
+	Shriekmaw
+	Simic Signet
+	Skullclamp
+	Skymarcher Aspirant
+	Smuggler's Copter
+	Soldier of the Pantheon
+	Spectral Procession
+	Sphinx of the Steel Wind
+	Spirebluff Canal
+	Spirit of the Labyrinth
+	Stomping Ground
+	Stonecoil Serpent
+	Stoneforge Mystic
+	Stormblood Berserker
+	Stromkirk Noble
+	Sun Titan
+	Sunbaked Canyon
+	Sundering Titan
+	Survival of the Fittest
+	Sword of Feast and Famine
+	Sylvan Caryatid
+	Sylvan Library
+	Teferi, Time Raveler
+	Temple Garden
+	Tendrils of Agony
+	Terastodon
+	Terminus
+	Thassa's Oracle
+	The Scarab God
+	The Tabernacle at Pendrell Vale
+	Thespian's Stage
+	Thirst for Knowledge
+	Thoughtseize
+	Thraben Inspector
+	Thragtusk
+	Through the Breach
+	Tidehollow Sculler
+	Tooth and Nail
+	Tropical Island
+	Tundra
+	Ugin, the Spirit Dragon
+	Umezawa's Jitte
+	Unburial Rites
+	Unexpectedly Absent
+	Uro, Titan of Nature's Wrath
+	Vampire Hexmage
+	Verdant Catacombs
+	Viscera Seer
+	Vizier of Remedies
+	Volrath's Stronghold
+	Vraska, Golgari Queen
+	Vryn Wingmare
+	Wall of Blossoms
+	Wall of Omens
+	Wall of Roots
+	Wandering Fumarole
+	Wasteland
+	Wear // Tear
+	Winds of Abandon
+	Worldly Tutor
+	Yawgmoth's Will
+	Zurgo Bellstriker
+
