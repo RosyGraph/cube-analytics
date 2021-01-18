@@ -6,139 +6,160 @@ processing draftlog: cube-draft_2021-01-17_11-05-draftlog_Waluigi.txt...
 processed 5 draftlogs.
 
 tier 1 cards:
+	Abrade
 	Academy Ruins
 	Ancestral Recall
 	Azorius Signet
-	Bitterblossom
+	Balance
 	Black Lotus
 	Blood Crypt
 	Bolas's Citadel
 	Bribery
+	Channel
 	Chrome Mox
 	Counterspell
 	Cryptic Command
+	Daretti, Ingenious Iconoclast
 	Dark Ritual
-	Darkslick Shores
+	Daze
 	Demonic Tutor
 	Dimir Signet
-	Electrolyze
-	Emry, Lurker of the Loch
+	Fact or Fiction
 	Flooded Strand
+	Gitaxian Probe
+	Gush
 	Hallowed Fountain
 	Hullbreacher
+	Imperial Seal
 	Inquisition of Kozilek
 	Jace, the Mind Sculptor
+	Liliana of the Veil
 	Lodestone Golem
+	Magma Jet
 	Mana Crypt
 	Mana Drain
+	Marsh Flats
 	Metalworker
 	Mind Twist
 	Mishra's Workshop
+	Misty Rainforest
+	Monastery Swiftspear
 	Mox Diamond
 	Mox Emerald
 	Mox Jet
 	Mox Pearl
 	Mox Sapphire
-	Myr Battlesphere
+	Mystical Tutor
 	Pestermite
-	Phyrexian Revoker
-	Plateau
 	Ponder
+	Porcelain Legionnaire
+	Preordain
+	Remand
 	Riftwing Cloudskate
-	Sacred Foundry
+	Shambling Vent
 	Smokestack
 	Snapcaster Mage
 	Sol Ring
 	Spell Pierce
+	Strip Mine
 	Sword of Fire and Ice
 	Thalia, Guardian of Thraben
 	The Gitrog Monster
+	Thieving Skydiver
 	Thran Dynamo
+	Time Spiral
 	Time Walk
+	Time Warp
 	Tinker
 	Tolarian Academy
 	Toxic Deluge
+	Treachery
+	Ulamog, the Ceaseless Hunger
 	Volcanic Island
 	Walking Ballista
+	Wheel of Fortune
 	Wildfire
 	Winter Orb
-	Worn Powerstone
 	Wurmcoil Engine
 
 tier 2 cards:
-	Abrade
 	Ancestral Vision
 	Arid Mesa
 	Ashiok, Nightmare Weaver
-	Balance
 	Batterskull
+	Bitterblossom
 	Bloodchief's Thirst
 	Boros Signet
+	Botanical Sanctum
 	Brazen Borrower
 	Chain Lightning
 	Chandra, Torch of Defiance
-	Channel
 	Chart a Course
 	Consecrated Sphinx
 	Creeping Tar Pit
-	Daretti, Ingenious Iconoclast
-	Daze
+	Crucible of Worlds
+	Dark Petition
+	Darkslick Shores
 	Dig Through Time
+	Electrolyze
+	Emry, Lurker of the Loch
 	Expansion // Explosion
-	Fact or Fiction
+	Faithless Looting
 	Fallen Shinobi
+	Fiery Confluence
 	Firebolt
-	Gitaxian Probe
+	Frantic Search
+	Gilded Lotus
 	Godless Shrine
 	Golos, Tireless Pilgrim
-	Gush
 	Hangarback Walker
+	Hazoret the Fervent
+	Hypnotic Specter
 	Imperial Recruiter
-	Imperial Seal
 	Kari Zev, Skyship Raider
 	Karn Liberated
+	Karn, Scion of Urza
 	Kiki-Jiki, Mirror Breaker
 	Kolaghan's Command
 	Kuldotha Forgemaster
-	Liliana of the Veil
-	Magma Jet
+	Library of Alexandria
 	Mana Confluence
 	Mana Leak
-	Marsh Flats
+	Memory Jar
 	Mindslaver
 	Mishra's Factory
-	Misty Rainforest
-	Monastery Swiftspear
-	Mystical Tutor
-	Porcelain Legionnaire
-	Preordain
+	Myr Battlesphere
+	Nahiri, the Harbinger
+	Nature's Claim
+	Noble Hierarch
+	Phantasmal Image
+	Phyrexian Metamorph
+	Phyrexian Revoker
+	Plateau
 	Rakdos Signet
-	Remand
 	Restoration Angel
 	Rishadan Port
+	Sacred Foundry
 	Scalding Tarn
 	Seasoned Pyromancer
 	Selesnya Signet
-	Shambling Vent
+	Shallow Grave
 	Shelldock Isle
 	Silent Clearing
 	Sphinx's Revelation
 	Splinter Twin
 	Steam Vents
-	Strip Mine
+	Street Wraith
 	Teferi, Hero of Dominaria
 	Tezzeret, Agent of Bolas
 	Thalia, Heretic Cathar
-	Thieving Skydiver
-	Time Spiral
-	Time Warp
 	Timetwister
-	Treachery
-	Ulamog, the Ceaseless Hunger
+	Valakut Awakening
 	Vampiric Tutor
 	Vendilion Clique
+	Venser, Shaper Savant
 	Watery Grave
-	Wheel of Fortune
+	Worn Powerstone
 	Yawgmoth's Bargain
 	Young Pyromancer
 	Zealous Conscripts
@@ -155,52 +176,31 @@ tier 3 cards:
 	Beast Within
 	Bloodbraid Elf
 	Bloodghast
-	Botanical Sanctum
 	Burst Lightning
-	Crucible of Worlds
 	Cultivate
-	Dark Petition
 	Dreadhorde Arcanist
 	Elspeth, Knight-Errant
 	Enlightened Tutor
 	Exhume
-	Faithless Looting
-	Fiery Confluence
-	Frantic Search
 	Gamble
 	Garruk Wildspeaker
-	Gilded Lotus
 	Glen Elendra Archmage
 	Gonti, Lord of Luxury
 	Grim Monolith
-	Hazoret the Fervent
 	Hexdrinker
 	Hydroid Krasis
-	Hypnotic Specter
-	Karn, Scion of Urza
-	Library of Alexandria
-	Memory Jar
 	Monastery Mentor
-	Nahiri, the Harbinger
 	Natural Order
-	Nature's Claim
 	Night's Whisper
-	Noble Hierarch
 	Ophiomancer
 	Parallax Wave
-	Phantasmal Image
-	Phyrexian Metamorph
 	Rakdos's Return
 	Recurring Nightmare
-	Shallow Grave
 	Shrine of Burning Rage
 	Solemn Simulacrum
-	Street Wraith
 	Sulfuric Vortex
 	Taiga
 	Tangle Wire
-	Valakut Awakening
-	Venser, Shaper Savant
 	Vindicate
 	Yawgmoth, Thran Physician
 

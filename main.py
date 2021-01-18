@@ -56,7 +56,7 @@ def process_picked_card(line, pick_number, drafter_picks, drafter, cube_list):
     drafter_picks[drafter].append(cardname)
     booster_remaining = BOOSTER_SIZE - pick_number
     weight = booster_remaining / BOOSTER_SIZE
-    if cube_list[cardname][1]:
+    if all(cube_list[cardname]):
         weight = (cube_list[cardname][0] + weight) / 2
     card = cube_list[cardname]
     card[0] = weight
