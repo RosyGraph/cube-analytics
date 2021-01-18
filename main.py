@@ -9,6 +9,14 @@ DOUBLE_SIDED_CARDNAMES = [
     "Brazen Borrower // Petty Theft",
     "Valakut Awakening // Valakut Stoneforge",
     "Archangel Avacyn // Avacyn, the Purifier",
+    "Embereth Shieldbreaker // Battle Display",
+    "Jace, Vryn's Prodigy // Jace, Telepath Unbound",
+    "Kytheon, Hero of Akros // Gideon, Battle-Forged",
+    "Murderous Rider // Swift End",
+    "Giant Killer // Chop Down",
+    "Bonecrusher Giant // Stomp",
+    "Garruk Relentless // Garruk, the Veil-Cursed",
+    "Duskwatch Recruiter // Krallenhorde Howler",
 ]
 
 
@@ -70,6 +78,14 @@ def process_draftlog(path, drafter_picks, cube_list):
                         line, pick_number, drafter_picks, drafter, cube_list
                     )
                     pick_number = (pick_number + 1) % BOOSTER_SIZE
+            else:
+                line = line.strip()
+                matches = SPLIT_CARD_REGEX.match(line)
+                if matches:
+                    if line in DOUBLE_SIDED_CARDNAMES:
+                        line = matches.group(1)
+                if cube_list.get(line):
+                    cube_list[line][1] = True
 
 
 def print_pick_weights(cube_list):
@@ -83,7 +99,7 @@ def print_pick_weights(cube_list):
             print("{:.<45}{:.>44}".format(card, pick_weight))
 
 
-def quartiles(cards):
+def print_quartiles(cards):
     picked_card_weights = []
     for card_info in cards.values():
         if card_info[1]:
@@ -143,7 +159,7 @@ def main():
     print(f"processed {draftlogs_processed} draftlogs.\n")
     #  print_picks(drafter_picks)
     #  print_pick_weights(cube_list)
-    quartiles(cube_list)
+    print_quartiles(cube_list)
 
 
 if __name__ == "__main__":
