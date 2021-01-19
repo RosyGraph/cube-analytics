@@ -79,13 +79,17 @@ def process_draftlog(path, drafter_picks, cube_list):
                     )
                     pick_number = (pick_number + 1) % BOOSTER_SIZE
             else:
-                line = line.strip()
-                matches = SPLIT_CARD_REGEX.match(line)
-                if matches:
-                    if line in DOUBLE_SIDED_CARDNAMES:
-                        line = matches.group(1)
-                if cube_list.get(line):
-                    cube_list[line][1] = True
+                process_unpicked_card(line, cube_list)
+
+
+def process_unpicked_card(s, cards):
+    s = s.strip()
+    matches = SPLIT_CARD_REGEX.match(s)
+    if matches:
+        if s in DOUBLE_SIDED_CARDNAMES:
+            s = matches.group(1)
+    if cards.get(s):
+        cards[s][1] = True
 
 
 def print_pick_weights(cube_list):
