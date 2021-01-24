@@ -1,5 +1,5 @@
 standings = [
     {"RosyGraph": 1, "Jorbas": 2},
-    {"RosyGraph": 2, "Caleb": 1},
-    {"Caleb": 2, "Jorbas": 0},
+    {"RosyGraph": 2, "Waluigi": 1},
+    {"Waluigi": 2, "Jorbas": 0},
 ]
