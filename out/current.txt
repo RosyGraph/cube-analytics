@@ -1,3 +1,5 @@
+processing draftlog: cube-draft_2021-01-24_12-47-draftlog_Waluigi.txt...
+processing draftlog: cube-draft_2021-01-24_12-47-draftlog_RosyGraph.txt...
 processing draftlog: cube-draft_2021-01-17_11-05-draftlog_RosyGraph.txt...
 processing draftlog: cube-draft_2021-01-24_11-11-draftlog_Waluigi.txt...
 processing draftlog: cube-draft_2021-01-24_11-11-draftlog_RosyGraph.txt...
@@ -5,18 +7,25 @@ processing draftlog: cube-draft_2021-01-17_13-08-draftlog_RosyGraph.txt...
 processing draftlog: cube-draft_2021-01-17_11-05-draftlog_Jorbas.txt...
 processing draftlog: cube-draft_2021-01-17_13-08-draftlog_Waluigi.txt...
 processing draftlog: cube-draft_2021-01-17_11-05-draftlog_Waluigi.txt...
+processing draftlog: cube-draft_2021-01-24_12-47-draftlog_Jorbas.txt...
 processing draftlog: cube-draft_2021-01-24_11-11-draftlog_Jorbas.txt...
-processed 8 draftlogs.
+processed 11 draftlogs.
 
 tier 1 cards:
+	Abrade
 	Academy Ruins
+	Acidic Slime
 	Ancestral Recall
-	Ancient Tomb
+	Arid Mesa
 	Azorius Signet
 	Balance
+	Basalt Monolith
+	Birthing Pod
 	Black Lotus
+	Blightsteel Colossus
 	Blood Crypt
 	Bolas's Citadel
+	Brainstorm
 	Bribery
 	Celestial Colonnade
 	Channel
@@ -24,30 +33,34 @@ tier 1 cards:
 	Counterspell
 	Cryptic Command
 	Daretti, Ingenious Iconoclast
-	Dark Confidant
+	Darkslick Shores
 	Daze
 	Demonic Tutor
+	Devoted Druid
 	Dimir Signet
 	Dryad of the Ilysian Grove
 	Elspeth, Sun's Champion
+	Eternal Witness
 	Fact or Fiction
 	Falkenrath Gorger
-	Fastbond
+	Fallen Shinobi
 	Fire // Ice
 	Fireblast
 	Flooded Strand
+	Force of Negation
 	Force of Will
-	Gideon, Ally of Zendikar
 	Gitaxian Probe
-	Gush
+	Grim Monolith
 	Hallowed Fountain
+	Hero's Downfall
 	Hullbreacher
 	Imperial Seal
 	Inquisition of Kozilek
+	Inverter of Truth
 	Izzet Signet
+	Jace, Vryn's Prodigy
 	Jace, the Mind Sculptor
 	Liliana of the Veil
-	Lodestone Golem
 	Magma Jet
 	Mana Crypt
 	Mana Drain
@@ -66,20 +79,25 @@ tier 1 cards:
 	Mox Pearl
 	Mox Ruby
 	Mox Sapphire
-	Mystical Tutor
+	Mulldrifter
+	Once Upon a Time
+	Pestermite
 	Polluted Delta
+	Ponder
 	Preordain
 	Prismatic Vista
 	Remand
 	Riftwing Cloudskate
 	Scalding Tarn
 	Seachrome Coast
+	Sensei's Divining Top
 	Shambling Vent
 	Shelldock Isle
 	Sheltered Thicket
 	Simic Signet
-	Smokestack
+	Skullclamp
 	Snapcaster Mage
+	Sneak Attack
 	Sol Ring
 	Sphinx's Revelation
 	Stomping Ground
@@ -88,34 +106,37 @@ tier 1 cards:
 	Teferi, Hero of Dominaria
 	The Gitrog Monster
 	Thieving Skydiver
-	Thran Dynamo
+	Thoughtseize
 	Time Walk
 	Time Warp
 	Tinker
 	Tolarian Academy
-	Toxic Deluge
 	Treachery
+	Trygon Predator
 	Tundra
 	Ulamog, the Ceaseless Hunger
 	Umezawa's Jitte
 	Urza, Lord High Artificer
 	Volcanic Island
+	Vryn Wingmare
 	Walking Ballista
 	Wandering Fumarole
 	Wheel of Fortune
 	Wildfire
+	Winter Orb
 	Worn Powerstone
 
 tier 2 cards:
-	Abrade
 	Ancestral Vision
-	Arid Mesa
+	Ancient Tomb
 	Ashiok, Nightmare Weaver
 	Banishing Light
 	Batterskull
 	Beast Within
+	Birds of Paradise
 	Bitterblossom
 	Bloodchief's Thirst
+	Bone Shredder
 	Bonecrusher Giant
 	Boros Signet
 	Brazen Borrower
@@ -128,27 +149,34 @@ tier 2 cards:
 	Craterhoof Behemoth
 	Creeping Tar Pit
 	Crucible of Worlds
+	Dack Fayden
+	Dark Confidant
 	Dark Petition
 	Dark Ritual
-	Darkslick Shores
+	Demonic Consultation
+	Deranged Hermit
 	Dig Through Time
 	Dismember
+	Duskwatch Recruiter
 	Electrolyze
 	Elspeth Conquers Death
 	Embereth Shieldbreaker
 	Emry, Lurker of the Loch
 	Expansion // Explosion
 	Exploration
-	Fallen Shinobi
+	Fastbond
 	Fatal Push
 	Field of the Dead
 	Firebolt
+	Garruk Relentless
+	Gideon, Ally of Zendikar
 	Gilded Lotus
 	Goblin Rabblemaster
+	Goblin Welder
 	Godless Shrine
 	Golgari Signet
 	Golos, Tireless Pilgrim
-	Grim Monolith
+	Gush
 	Hangarback Walker
 	Heartless Act
 	Hypnotic Specter
@@ -158,42 +186,63 @@ tier 2 cards:
 	Karn Liberated
 	Karn, Scion of Urza
 	Kiki-Jiki, Mirror Breaker
+	Knight of Autumn
 	Kolaghan's Command
 	Kuldotha Forgemaster
+	Laboratory Maniac
+	Library of Alexandria
 	Life from the Loam
+	Lightning Greaves
+	Lodestone Golem
 	Lotus Petal
 	Mana Confluence
 	Mana Leak
+	Memory Jar
+	Mind's Desire
 	Mishra's Factory
 	Myr Battlesphere
+	Mystical Tutor
+	Natural Order
+	Nature's Claim
+	Noble Hierarch
 	Oracle of Mul Daya
-	Pestermite
 	Phantasmal Image
+	Phyrexian Arena
 	Phyrexian Revoker
 	Plateau
-	Ponder
+	Polukranos, World Eater
 	Porcelain Legionnaire
+	Progenitus
 	Rakdos Signet
 	Restoration Angel
 	Rishadan Port
 	Sacred Foundry
+	Scroll Rack
 	Scrubland
 	Seasoned Pyromancer
 	Selesnya Signet
 	Shallow Grave
 	Silent Clearing
+	Smokestack
+	Solemn Simulacrum
 	Spell Pierce
+	Sphinx of the Steel Wind
 	Splinter Twin
 	Steam Vents
 	Street Wraith
 	Sun Titan
+	Sundering Titan
+	Swords to Plowshares
 	Teferi, Time Raveler
 	Temple Garden
 	Tezzeret, Agent of Bolas
-	Thalia, Guardian of Thraben
+	Thran Dynamo
 	Time Spiral
 	Timetwister
+	Tooth and Nail
+	Toxic Deluge
 	Treasure Cruise
+	Tropical Island
 	Turnabout
 	Uro, Titan of Nature's Wrath
 	Valakut Awakening
@@ -202,12 +251,11 @@ tier 2 cards:
 	Venser, Shaper Savant
 	Watery Grave
 	Windswept Heath
-	Winter Orb
+	Wishclaw Talisman
 	Wrenn and Six
 	Wurmcoil Engine
 	Yawgmoth's Bargain
 	Young Pyromancer
-	Zealous Conscripts
 
 tier 3 cards:
 	Ancient Grudge
@@ -223,20 +271,24 @@ tier 3 cards:
 	Bloodbraid Elf
 	Bloodghast
 	Botanical Sanctum
+	Burning of Xinye
 	Burst Lightning
 	Collective Brutality
 	Cultivate
-	Demonic Consultation
+	Doom Whisperer
 	Dreadhorde Arcanist
 	Elspeth, Knight-Errant
 	Emrakul, the Promised End
 	Enlightened Tutor
 	Exhume
 	Faithless Looting
+	Fauna Shaman
 	Fiery Confluence
 	Frantic Search
+	Fyndhorn Elves
 	Gamble
 	Garruk Wildspeaker
+	Giant Killer
 	Glen Elendra Archmage
 	Go for the Throat
 	Gonti, Lord of Luxury
@@ -245,41 +297,44 @@ tier 3 cards:
 	Hydroid Krasis
 	Impulse
 	Iona, Shield of Emeria
-	Library of Alexandria
+	Kodama's Reach
 	Lightning Helix
+	Lingering Souls
 	Lion's Eye Diamond
 	Living Death
 	Lotus Bloom
 	Lotus Cobra
-	Memory Jar
+	Maul of the Skyclaves
 	Mirari's Wake
 	Monastery Mentor
 	Nahiri, the Harbinger
-	Natural Order
-	Nature's Claim
 	Night's Whisper
 	Nissa, Vastwood Seer
-	Noble Hierarch
 	Ophiomancer
 	Oust
 	Palinchron
 	Parallax Wave
 	Phyrexian Metamorph
+	Questing Beast
 	Raging Ravine
 	Rakdos's Return
 	Ramunap Excavator
+	Recruiter of the Guard
 	Recurring Nightmare
 	Shriekmaw
 	Shrine of Burning Rage
-	Solemn Simulacrum
+	Smuggler's Copter
 	Sulfuric Vortex
 	Taiga
 	Tangle Wire
+	Tendrils of Agony
+	Thalia, Guardian of Thraben
 	Thalia, Heretic Cathar
-	Tropical Island
+	Verdant Catacombs
 	Vindicate
 	Wear // Tear
 	Yawgmoth, Thran Physician
+	Zealous Conscripts
 
 tier 4 cards:
 	Abbot of Keral Keep
@@ -287,49 +342,41 @@ tier 4 cards:
 	Ajani Vengeant
 	Arbor Elf
 	Armageddon
+	Assassin's Trophy
 	Avalanche Riders
 	Avenger of Zendikar
-	Basalt Monolith
-	Birds of Paradise
-	Birthing Pod
 	Blackcleave Cliffs
 	Blade Splicer
-	Blightsteel Colossus
 	Bloodstained Mire
 	Bomat Courier
-	Bone Shredder
 	Braids, Cabal Minion
 	Brain Freeze
 	Brain Maggot
-	Brainstorm
 	Breeding Pool
 	Brimaz, King of Oreskos
-	Burning of Xinye
 	Cabal Ritual
 	Carnage Tyrant
 	Cathartic Reunion
 	Coalition Relic
 	Coercive Portal
 	Collector Ouphe
+	Containment Priest
 	Corpse Dance
 	Council's Judgment
 	Crop Rotation
-	Dack Fayden
 	Damnation
+	Daretti, Scrap Savant
+	Dark Depths
 	Day of Judgment
 	Deceiver Exarch
 	Declaration in Stone
 	Deep Forest Hermit
-	Deranged Hermit
 	Desperate Ritual
-	Devoted Druid
 	Dire Fleet Daredevil
 	Disenchant
-	Doom Whisperer
 	Dragonlord Atarka
 	Dreadbore
 	Duress
-	Duskwatch Recruiter
 	Eidolon of the Great Revel
 	Eladamri's Call
 	Elesh Norn, Grand Cenobite
@@ -338,28 +385,22 @@ tier 4 cards:
 	Emrakul, the Aeons Torn
 	Entomb
 	Ephemerate
-	Eternal Witness
 	Everflowing Chalice
-	Fauna Shaman
 	Figure of Destiny
 	Finale of Devastation
 	Firedrinker Satyr
 	Flame Slash
 	Flickerwisp
 	Force Spike
-	Force of Negation
 	Fractured Identity
-	Fyndhorn Elves
 	Gaddock Teeg
 	Gaea's Cradle
-	Garruk Relentless
 	Geist of Saint Traft
-	Giant Killer
 	Gideon Jura
+	Gifts Ungiven
 	Giver of Runes
 	Glorybringer
 	Goblin Guide
-	Goblin Welder
 	Grave Titan
 	Green Sun's Zenith
 	Grim Lavamancer
@@ -377,9 +418,7 @@ tier 4 cards:
 	Ignite Memories
 	Inferno Titan
 	Inkwell Leviathan
-	Inverter of Truth
 	Isamaru, Hound of Konda
-	Jace, Vryn's Prodigy
 	Jace, Wielder of Mysteries
 	Jeska's Will
 	Joraga Treespeaker
@@ -388,32 +427,27 @@ tier 4 cards:
 	Karmic Guide
 	Kinnan, Bonder Prodigy
 	Kitesail Freebooter
-	Knight of Autumn
-	Kodama's Reach
 	Koth of the Hammer
 	Kozilek, Butcher of Truth
 	Kytheon, Hero of Akros
-	Laboratory Maniac
 	Land Tax
 	Lavaclaw Reaches
 	Leonin Relic-Warder
 	Lightning Bolt
-	Lightning Greaves
 	Liliana, the Last Hope
-	Lingering Souls
 	Llanowar Elves
 	Lumbering Falls
 	Luminarch Aspirant
 	Maelstrom Pulse
+	Makeshift Mannequin
+	Mana Tithe
 	Manamorphose
 	Massacre Wurm
 	Maze of Ith
 	Melira, Sylvok Outcast
 	Mesmeric Fiend
-	Mind's Desire
 	Moat
 	Mother of Runes
-	Mulldrifter
 	Murderous Redcap
 	Murderous Rider
 	Mutavault
@@ -425,7 +459,6 @@ tier 4 cards:
 	Nurturing Peatland
 	Oath of Druids
 	Oblivion Ring
-	Once Upon a Time
 	Oona's Prowler
 	Opposition
 	Orzhov Signet
@@ -433,20 +466,17 @@ tier 4 cards:
 	Pack Rat
 	Palace Jailer
 	Past in Flames
+	Path to Exile
 	Pernicious Deed
-	Phyrexian Arena
 	Pia and Kiran Nalaar
-	Polukranos, World Eater
 	Primeval Titan
-	Progenitus
+	Putrid Imp
 	Pyretic Ritual
-	Questing Beast
 	Ranger-Captain of Eos
 	Ravages of War
 	Ravenous Chupacabra
 	Reanimate
 	Reclamation Sage
-	Recruiter of the Guard
 	Regrowth
 	Remorseful Cleric
 	Repeal
@@ -459,17 +489,14 @@ tier 4 cards:
 	Sakura-Tribe Elder
 	Savannah
 	Scavenging Ooze
-	Scroll Rack
 	Seething Song
 	Selfless Spirit
 	Shark Typhoon
 	Show and Tell
-	Skullclamp
+	Skyclave Apparition
 	Skymarcher Aspirant
-	Smuggler's Copter
 	Soldier of the Pantheon
 	Spectral Procession
-	Sphinx of the Steel Wind
 	Spirebluff Canal
 	Spirit of the Labyrinth
 	Stirring Wildwood
@@ -479,13 +506,10 @@ tier 4 cards:
 	Stromkirk Noble
 	Student of Warfare
 	Sunbaked Canyon
-	Sundering Titan
 	Survival of the Fittest
 	Sword of Feast and Famine
-	Swords to Plowshares
 	Sylvan Caryatid
 	Sylvan Library
-	Tendrils of Agony
 	Terastodon
 	Terminus
 	Thassa's Oracle
@@ -493,25 +517,22 @@ tier 4 cards:
 	The Tabernacle at Pendrell Vale
 	Thespian's Stage
 	Thirst for Knowledge
-	Thoughtseize
 	Thousand-Year Storm
 	Thraben Inspector
 	Thragtusk
 	Through the Breach
 	Tidehollow Sculler
 	Tireless Tracker
-	Tooth and Nail
 	Ugin, the Spirit Dragon
+	Ulamog, the Infinite Gyre
 	Unburial Rites
 	Underworld Breach
 	Unexpectedly Absent
 	Vampire Hexmage
-	Verdant Catacombs
 	Viscera Seer
 	Vizier of Remedies
 	Volrath's Stronghold
 	Vraska, Golgari Queen
-	Vryn Wingmare
 	Wall of Blossoms
 	Wall of Omens
 	Wall of Roots
@@ -520,6 +541,7 @@ tier 4 cards:
 	Woe Strider
 	Woodfall Primus
 	Worldly Tutor
+	Wrath of God
 	Yawgmoth's Will
 	Zurgo Bellstriker
 
