@@ -17,6 +17,7 @@ DOUBLE_SIDED_CARDNAMES = [
     "Bonecrusher Giant // Stomp",
     "Garruk Relentless // Garruk, the Veil-Cursed",
     "Duskwatch Recruiter // Krallenhorde Howler",
+    "Nissa, Vastwood Seer // Nissa, Sage Animist",
 ]
 
 
