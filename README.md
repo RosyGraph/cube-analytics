@@ -6,4 +6,4 @@ generated using [dr4ft.info](https://github.com/dr4fters/dr4ft). This project
 has no affiliation with Wizards of the Coast LLC.
 
 - [Jorbas's 540 powered cube on Cube Cobra](https://cubecobra.com/cube/list/5dbcf2df558eb45ea1f5493c)
-- [Card tier list](out/card_tiers.txt)
+- [Card tier list](out/current.txt)
