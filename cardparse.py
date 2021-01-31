@@ -2,6 +2,7 @@ import sys
 import os
 import csv
 import re
+import datetime
 
 SPLIT_CARD_REGEX = re.compile(r"^([^/]+)\s//.*$")
 BOOSTER_SIZE = 15
@@ -106,59 +107,31 @@ def print_pick_weights(cube_list):
             print("{:.<45}{:.>44}".format(card, pick_weight))
 
 
-def print_quartiles(cards):
-    picked_card_weights = []
-    for card_info in cards.values():
-        if card_info[1]:
-            picked_card_weights.append(card_info[0])
-    median = sum(picked_card_weights) / len(picked_card_weights)
-    lower_half = [weight for weight in picked_card_weights if weight < median]
-    upper_half = [weight for weight in picked_card_weights if weight >= median]
-    lower_median = sum(lower_half) / len(lower_half)
-    upper_median = sum(upper_half) / len(upper_half)
-    fourths = []
-    fourths.append(
-        [
-            cardname
-            for cardname, info in cards.items()
-            if info[0] >= upper_median
-        ]
-    )
-    fourths.append(
-        [
-            cardname
-            for cardname, info in cards.items()
-            if median < info[0] < upper_median
-        ]
-    )
-    fourths.append(
-        [
-            cardname
-            for cardname, info in cards.items()
-            if lower_median < info[0] <= median
-        ]
-    )
-    fourths.append(
-        [
-            cardname
-            for cardname, info in cards.items()
-            if info[1] and info[0] < lower_median
-        ]
-    )
-    for i, cardnames in enumerate(fourths):
-        tier = i + 1
-        print(f"tier {tier} cards:")
-        for cardname in sorted(cardnames):
-            print(f"\t{cardname}")
-        print()
+def combine_cube_lists(path_to_cubelists):
+    cube_list_filenames = os.listdir(path_to_cubelists)
+    cube_lists = [
+        get_cube_list(os.path.join("cube_lists", filename))
+        for filename in cube_list_filenames
+    ]
+    cube_list = cube_lists[0]
+    for c in cube_lists[1:]:
+        cube_list.update(c)
+    return cube_list
 
 
-def main():
-    drafters = ["RosyGraph", "Jorbas", "Waluigi"]
+def write_cube_list(cube_list):
+    current_date = str(datetime.datetime.now()).split()[0]
+    new_cube_list_filename = "cube-list_comprehensive_" + current_date + ".csv"
+    qualified_cubelist_path = os.path.join("cube_lists", new_cube_list_filename)
+    with open(qualified_cubelist_path, "w") as f:
+        csv_writer = csv.writer(f)
+        for k, v in cube_list.items():
+            csv_writer.writerow([k, v])
+
+
+def generate_cube_list_from_drafter_picks(drafters):
     drafter_picks = {drafter: [] for drafter in drafters}
-    cube_list = get_cube_list(
-        "./cube_lists/cube-list_comprehensive_2021-01-31.csv"
-    )
+    cube_list = combine_cube_lists("./cube_lists")
     valid_draftlogs = get_valid_draftlogs(drafters)
     for draftlog_filename in valid_draftlogs:
         print(f"processing draftlog: {draftlog_filename}" + "...")
@@ -166,10 +139,4 @@ def main():
         process_draftlog(qualified_draftlog_path, drafter_picks, cube_list)
     draftlogs_processed = len(valid_draftlogs)
     print(f"processed {draftlogs_processed} draftlogs.\n")
-    #  print_picks(drafter_picks)
-    #  print_pick_weights(cube_list)
-    print_quartiles(cube_list)
-
-
-if __name__ == "__main__":
-    main()
+    return cube_list
