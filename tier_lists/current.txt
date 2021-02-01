@@ -16,548 +16,707 @@ processing draftlog: cube-draft_2021-01-24_11-11-draftlog_Jorbas.txt...
 processed 15 draftlogs.
 
 tier 1 cards:
-	Abrade
-	Acidic Slime
-	Adanto Vanguard
-	Ancestral Recall
-	Arid Mesa
-	Azorius Signet
-	Bitterblossom
-	Black Lotus
-	Blightsteel Colossus
-	Blood Crypt
-	Bloodstained Mire
-	Boros Signet
-	Brainstorm
-	Brazen Borrower
-	Celestial Colonnade
-	Chrome Mox
-	Counterspell
-	Cryptic Command
-	Dack Fayden
-	Dark Ritual
-	Darkslick Shores
-	Demonic Tutor
-	Devoted Druid
-	Dimir Signet
-	Disenchant
-	Dismember
-	Dryad of the Ilysian Grove
-	Elspeth, Sun's Champion
-	Emry, Lurker of the Loch
-	Ephemerate
-	Fact or Fiction
-	Fire // Ice
-	Fireblast
-	Flooded Strand
-	Force of Negation
-	Fractured Identity
-	Gitaxian Probe
-	Grim Monolith
-	Hallowed Fountain
-	Hero's Downfall
-	Hullbreacher
-	Imperial Seal
-	Inquisition of Kozilek
-	Inverter of Truth
-	Izzet Signet
-	Jace, Vryn's Prodigy
-	Jace, the Mind Sculptor
-	Karakas
-	Liliana of the Veil
-	Luminarch Aspirant
-	Mana Crypt
-	Mana Drain
-	Mana Flare
-	Mana Leak
-	Mana Vault
-	Metalworker
-	Mind Twist
-	Mindslaver
-	Miscalculation
-	Misty Rainforest
-	Mother of Runes
-	Mox Diamond
-	Mox Emerald
-	Mox Jet
-	Mox Pearl
-	Mox Ruby
-	Mox Sapphire
-	Narset, Parter of Veils
-	Oblivion Ring
-	Once Upon a Time
-	Palace Jailer
-	Polluted Delta
-	Ponder
-	Preordain
-	Prismatic Vista
-	Pyretic Ritual
-	Remand
-	Scalding Tarn
-	Seachrome Coast
-	Sensei's Divining Top
-	Shambling Vent
-	Shark Typhoon
-	Shelldock Isle
-	Sheltered Thicket
-	Simic Signet
-	Skyclave Apparition
-	Snapcaster Mage
-	Sneak Attack
-	Sol Ring
-	Solemn Simulacrum
-	Sphinx's Revelation
-	Steam Vents
-	Stomping Ground
-	Stoneforge Mystic
-	Strip Mine
-	Swords to Plowshares
-	Thassa's Oracle
-	Thieving Skydiver
-	Thousand-Year Storm
-	Time Spiral
-	Time Walk
-	Tinker
-	Tolarian Academy
-	Treachery
-	Trygon Predator
-	Tundra
-	Turnabout
-	Ulamog, the Ceaseless Hunger
-	Ulamog, the Infinite Gyre
-	Umezawa's Jitte
-	Urza, Lord High Artificer
-	Volcanic Island
-	Vryn Wingmare
-	Walking Ballista
-	Wandering Fumarole
-	Wheel of Fortune
-	Wildfire
-	Winter Orb
-	Yawgmoth's Will
+1    Brainstorm                                                       
+1    Black Lotus                                                      
+1    Force of Negation                                                
+1    Jace, the Mind Sculptor                                          
+1    Skyclave Apparition                                              
+1    Sneak Attack                                                     
+1    Sphinx's Revelation                                              
+1    Ulamog, the Infinite Gyre                                        
+2    Grim Monolith                                                    
+3    Volcanic Island                                                  
+4    Umezawa's Jitte                                                  
+5    Mox Emerald                                                      
+6    Acidic Slime                                                     
+6    Flooded Strand                                                   
+6    Hullbreacher                                                     
+6    Inverter of Truth                                                
+6    Jace, Vryn's Prodigy                                             
+6    Palace Jailer                                                    
+6    Pyretic Ritual                                                   
+6    Polluted Delta                                                   
+6    Snapcaster Mage                                                  
+6    Seachrome Coast                                                  
+6    Simic Signet                                                     
+6    Trygon Predator                                                  
+7    Mana Vault                                                       
+7    Sol Ring                                                         
+8    Bloodstained Mire                                                
+8    Imperial Seal                                                    
+8    Mana Drain                                                       
+8    Mox Jet                                                          
+8    Time Walk                                                        
+9    Mana Crypt                                                       
+10   Counterspell                                                     
+10   Scalding Tarn                                                    
+11   Arid Mesa                                                        
+11   Elspeth, Sun's Champion                                          
+11   Ephemerate                                                       
+11   Hero's Downfall                                                  
+11   Hallowed Fountain                                                
+11   Metalworker                                                      
+11   Once Upon a Time                                                 
+11   Prismatic Vista                                                  
+11   Urza, Lord High Artificer                                        
+11   Vryn Wingmare                                                    
+11   Wandering Fumarole                                               
+11   Walking Ballista                                                 
+11   Yawgmoth's Will                                                  
+12   Demonic Tutor                                                    
+12   Mox Pearl                                                        
+13   Remand                                                           
+14   Ancestral Recall                                                 
+14   Mox Sapphire                                                     
+15   Darkslick Shores                                                 
+15   Fireblast                                                        
+15   Karakas                                                          
+15   Mana Flare                                                       
+15   Stoneforge Mystic                                                
+15   Sensei's Divining Top                                            
+15   Strip Mine                                                       
+15   Tundra                                                           
+16   Time Spiral                                                      
+17   Steam Vents                                                      
+18   Abrade                                                           
+18   Emry, Lurker of the Loch                                         
+18   Fractured Identity                                               
+18   Mind Twist                                                       
+18   Mox Diamond                                                      
+18   Solemn Simulacrum                                                
+19   Dark Ritual                                                      
+20   Preordain                                                        
+21   Tinker                                                           
+22   Disenchant                                                       
+22   Dimir Signet                                                     
+22   Oblivion Ring                                                    
+22   Shark Typhoon                                                    
+22   Shelldock Isle                                                   
+22   Stomping Ground                                                  
+22   Wheel of Fortune                                                 
+23   Adanto Vanguard                                                  
+23   Celestial Colonnade                                              
+23   Devoted Druid                                                    
+23   Fire // Ice                                                      
+23   Inquisition of Kozilek                                           
+23   Liliana of the Veil                                              
+23   Mother of Runes                                                  
+23   Mana Leak                                                        
+23   Mox Ruby                                                         
+23   Sheltered Thicket                                                
+23   Shambling Vent                                                   
+23   Thousand-Year Storm                                              
 
 tier 2 cards:
-	Academy Ruins
-	Ancestral Vision
-	Ancient Tomb
-	Animate Dead
-	Ashiok, Nightmare Weaver
-	Balance
-	Banishing Light
-	Basalt Monolith
-	Birds of Paradise
-	Birthing Pod
-	Bloodchief's Thirst
-	Bolas's Citadel
-	Bone Shredder
-	Bonecrusher Giant
-	Braids, Cabal Minion
-	Cabal Ritual
-	Cathartic Reunion
-	Channel
-	Char
-	Chart a Course
-	Courser of Kruphix
-	Craterhoof Behemoth
-	Creeping Tar Pit
-	Crucible of Worlds
-	Daretti, Ingenious Iconoclast
-	Dark Confidant
-	Daze
-	Deceiver Exarch
-	Demonic Consultation
-	Desperate Ritual
-	Dig Through Time
-	Duskwatch Recruiter
-	Elspeth Conquers Death
-	Embereth Shieldbreaker
-	Eternal Witness
-	Exhume
-	Expansion // Explosion
-	Exploration
-	Falkenrath Gorger
-	Fallen Shinobi
-	Fastbond
-	Field of the Dead
-	Fiery Confluence
-	Force of Will
-	Geist of Saint Traft
-	Gideon, Ally of Zendikar
-	Gilded Lotus
-	Goblin Rabblemaster
-	Goblin Welder
-	Godless Shrine
-	Golgari Signet
-	Golos, Tireless Pilgrim
-	Gush
-	Hangarback Walker
-	Heartless Act
-	Honor of the Pure
-	Imperial Recruiter
-	Incinerate
-	Karn, Scion of Urza
-	Knight of Autumn
-	Kolaghan's Command
-	Kuldotha Forgemaster
-	Kytheon, Hero of Akros
-	Laboratory Maniac
-	Land Tax
-	Legion's Landing
-	Library of Alexandria
-	Life from the Loam
-	Lightning Greaves
-	Lotus Petal
-	Mana Confluence
-	Manamorphose
-	Marsh Flats
-	Maul of the Skyclaves
-	Memory Jar
-	Mishra's Factory
-	Mishra's Workshop
-	Monastery Mentor
-	Mulldrifter
-	Myr Battlesphere
-	Mystical Tutor
-	Natural Order
-	Nature's Claim
-	Noble Hierarch
-	Oko, Thief of Crowns
-	Oracle of Mul Daya
-	Orzhov Signet
-	Pestermite
-	Phyrexian Revoker
-	Plateau
-	Polukranos, World Eater
-	Progenitus
-	Rakdos Signet
-	Ranger-Captain of Eos
-	Rishadan Port
-	Robber of the Rich
-	Sacred Foundry
-	Show and Tell
-	Silent Clearing
-	Skullclamp
-	Spell Pierce
-	Sphinx of the Steel Wind
-	Splinter Twin
-	Sunbaked Canyon
-	Sundering Titan
-	Teferi, Hero of Dominaria
-	Teferi, Time Raveler
-	Temple Garden
-	Tendrils of Agony
-	The Gitrog Monster
-	Thoughtseize
-	Thraben Inspector
-	Thran Dynamo
-	Timetwister
-	Tooth and Nail
-	Toxic Deluge
-	Treasure Cruise
-	Tropical Island
-	Underground Sea
-	Underworld Breach
-	Uro, Titan of Nature's Wrath
-	Valakut Awakening
-	Valki, God of Lies
-	Vampiric Tutor
-	Vendilion Clique
-	Venser, Shaper Savant
-	Vizier of Remedies
-	Wall of Omens
-	Wasteland
-	Watery Grave
-	Wear // Tear
-	Windswept Heath
-	Worn Powerstone
-	Yawgmoth's Bargain
-	Yawgmoth, Thran Physician
+24   Azorius Signet                                                   
+24   Gitaxian Probe                                                   
+25   Bitterblossom                                                    
+25   Fact or Fiction                                                  
+26   Dryad of the Ilysian Grove                                       
+26   Misty Rainforest                                                 
+26   Mindslaver                                                       
+26   Thieving Skydiver                                                
+26   Ulamog, the Ceaseless Hunger                                     
+26   Wildfire                                                         
+27   Brazen Borrower                                                  
+27   Boros Signet                                                     
+27   Tolarian Academy                                                 
+27   Winter Orb                                                       
+28   Chrome Mox                                                       
+28   Swords to Plowshares                                             
+28   Turnabout                                                        
+29   Blood Crypt                                                      
+29   Blightsteel Colossus                                             
+29   Dismember                                                        
+29   Dack Fayden                                                      
+29   Izzet Signet                                                     
+29   Luminarch Aspirant                                               
+29   Miscalculation                                                   
+29   Narset, Parter of Veils                                          
+29   Ponder                                                           
+29   Thassa's Oracle                                                  
+29   Treachery                                                        
+30   Cryptic Command                                                  
+31   Daretti, Ingenious Iconoclast                                    
+31   Mulldrifter                                                      
+31   Worn Powerstone                                                  
+32   Force of Will                                                    
+32   Watery Grave                                                     
+33   Ashiok, Nightmare Weaver                                         
+33   Gilded Lotus                                                     
+33   Lotus Petal                                                      
+34   Bloodchief's Thirst                                              
+34   Birds of Paradise                                                
+34   Basalt Monolith                                                  
+34   Elspeth Conquers Death                                           
+34   Embereth Shieldbreaker                                           
+34   Goblin Rabblemaster                                              
+34   Godless Shrine                                                   
+34   Kytheon, Hero of Akros                                           
+34   Kuldotha Forgemaster                                             
+34   Karn, Scion of Urza                                              
+34   Lightning Greaves                                                
+34   Mana Confluence                                                  
+34   Oko, Thief of Crowns                                             
+34   Silent Clearing                                                  
+34   Sphinx of the Steel Wind                                         
+34   Thraben Inspector                                                
+34   Thoughtseize                                                     
+34   Underworld Breach                                                
+34   Wasteland                                                        
+35   Daze                                                             
+35   Mystical Tutor                                                   
+35   Rakdos Signet                                                    
+35   Toxic Deluge                                                     
+35   Teferi, Time Raveler                                             
+35   Thran Dynamo                                                     
+35   Wear // Tear                                                     
+35   Yawgmoth's Bargain                                               
+36   Golgari Signet                                                   
+36   Library of Alexandria                                            
+36   Vendilion Clique                                                 
+37   Animate Dead                                                     
+37   Bolas's Citadel                                                  
+37   Craterhoof Behemoth                                              
+37   Creeping Tar Pit                                                 
+37   Crucible of Worlds                                               
+37   Demonic Consultation                                             
+37   Desperate Ritual                                                 
+37   Exploration                                                      
+37   Gideon, Ally of Zendikar                                         
+37   Goblin Welder                                                    
+37   Land Tax                                                         
+37   Life from the Loam                                               
+37   Marsh Flats                                                      
+37   Myr Battlesphere                                                 
+37   Polukranos, World Eater                                          
+37   Phyrexian Revoker                                                
+37   The Gitrog Monster                                               
+37   Underground Sea                                                  
+37   Valki, God of Lies                                               
+38   Memory Jar                                                       
+38   Treasure Cruise                                                  
+39   Channel                                                          
+39   Incinerate                                                       
+39   Natural Order                                                    
+39   Venser, Shaper Savant                                            
+39   Valakut Awakening                                                
 
 tier 3 cards:
-	Ancient Grudge
-	Archangel Avacyn
-	Badlands
-	Baleful Strix
-	Banefire
-	Baral, Chief of Compliance
-	Batterskull
-	Bayou
-	Bazaar of Baghdad
-	Beast Within
-	Blackcleave Cliffs
-	Bloodghast
-	Botanical Sanctum
-	Brain Freeze
-	Burning of Xinye
-	Burst Lightning
-	Chandra, Torch of Defiance
-	Consecrated Sphinx
-	Damnation
-	Daretti, Scrap Savant
-	Dark Petition
-	Deranged Hermit
-	Doom Whisperer
-	Emrakul, the Aeons Torn
-	Emrakul, the Promised End
-	Faithless Looting
-	Fatal Push
-	Fauna Shaman
-	Firebolt
-	Frantic Search
-	Fyndhorn Elves
-	Gaddock Teeg
-	Garruk Relentless
-	Garruk Wildspeaker
-	Giant Killer
-	Gideon Jura
-	Glen Elendra Archmage
-	Go for the Throat
-	Green Sun's Zenith
-	Grim Lavamancer
-	Gruul Signet
-	High Tide
-	Hypnotic Specter
-	Impulse
-	Iona, Shield of Emeria
-	Jace, Wielder of Mysteries
-	Jeska's Will
-	Kargan Intimidator
-	Kari Zev, Skyship Raider
-	Karmic Guide
-	Kiki-Jiki, Mirror Breaker
-	Legion Warboss
-	Leonin Relic-Warder
-	Lightning Helix
-	Liliana, the Last Hope
-	Living Death
-	Lodestone Golem
-	Lotus Bloom
-	Lotus Cobra
-	Mind's Desire
-	Murderous Redcap
-	Mutavault
-	Nahiri, the Harbinger
-	Night's Whisper
-	Nissa, Vastwood Seer
-	Ophiomancer
-	Opposition
-	Oust
-	Palinchron
-	Phantasmal Image
-	Phyrexian Arena
-	Phyrexian Metamorph
-	Plow Under
-	Porcelain Legionnaire
-	Raging Ravine
-	Rakdos's Return
-	Ramunap Excavator
-	Ravenous Chupacabra
-	Recruiter of the Guard
-	Recurring Nightmare
-	Remorseful Cleric
-	Restoration Angel
-	Reveillark
-	Scroll Rack
-	Scrubland
-	Seasoned Pyromancer
-	Shallow Grave
-	Shrine of Burning Rage
-	Smokestack
-	Smuggler's Copter
-	Street Wraith
-	Sun Titan
-	Taiga
-	Terastodon
-	Tezzeret, Agent of Bolas
-	Thalia, Guardian of Thraben
-	Thalia, Heretic Cathar
-	The Tabernacle at Pendrell Vale
-	Time Warp
-	Verdant Catacombs
-	Vindicate
-	Wishclaw Talisman
-	Wrenn and Six
-	Wurmcoil Engine
-	Young Pyromancer
-	Zealous Conscripts
+40   Splinter Twin                                                    
+40   Yawgmoth, Thran Physician                                        
+41   Academy Ruins                                                    
+41   Teferi, Hero of Dominaria                                        
+42   Ancient Tomb                                                     
+42   Dark Confidant                                                   
+42   Fallen Shinobi                                                   
+43   Banishing Light                                                  
+43   Bone Shredder                                                    
+43   Bonecrusher Giant                                                
+43   Birthing Pod                                                     
+43   Cabal Ritual                                                     
+43   Char                                                             
+43   Expansion // Explosion                                           
+43   Field of the Dead                                                
+43   Geist of Saint Traft                                             
+43   Kolaghan's Command                                               
+43   Mishra's Factory                                                 
+43   Plateau                                                          
+43   Progenitus                                                       
+43   Robber of the Rich                                               
+43   Sundering Titan                                                  
+43   Timetwister                                                      
+43   Temple Garden                                                    
+43   Vizier of Remedies                                               
+44   Balance                                                          
+44   Eternal Witness                                                  
+44   Fiery Confluence                                                 
+44   Honor of the Pure                                                
+44   Heartless Act                                                    
+44   Hangarback Walker                                                
+44   Mishra's Workshop                                                
+44   Tendrils of Agony                                                
+44   Tropical Island                                                  
+45   Monastery Mentor                                                 
+46   Imperial Recruiter                                               
+46   Spell Pierce                                                     
+47   Noble Hierarch                                                   
+47   Pestermite                                                       
+48   Ancestral Vision                                                 
+48   Braids, Cabal Minion                                             
+48   Chart a Course                                                   
+48   Courser of Kruphix                                               
+48   Deceiver Exarch                                                  
+48   Dig Through Time                                                 
+48   Duskwatch Recruiter                                              
+48   Gush                                                             
+48   Knight of Autumn                                                 
+48   Laboratory Maniac                                                
+48   Manamorphose                                                     
+48   Orzhov Signet                                                    
+48   Ranger-Captain of Eos                                            
+48   Rishadan Port                                                    
+48   Show and Tell                                                    
+48   Sunbaked Canyon                                                  
+48   Tooth and Nail                                                   
+48   Uro, Titan of Nature's Wrath                                     
+48   Vampiric Tutor                                                   
+48   Windswept Heath                                                  
+49   Exhume                                                           
+49   Falkenrath Gorger                                                
+49   Golos, Tireless Pilgrim                                          
+50   Skullclamp                                                       
+51   Cathartic Reunion                                                
+51   Legion's Landing                                                 
+51   Nature's Claim                                                   
+51   Oracle of Mul Daya                                               
+51   Sacred Foundry                                                   
+51   Wall of Omens                                                    
+52   Fastbond                                                         
+52   Maul of the Skyclaves                                            
+53   Botanical Sanctum                                                
+53   Chandra, Torch of Defiance                                       
+53   Mind's Desire                                                    
+53   Night's Whisper                                                  
+53   Seasoned Pyromancer                                              
+53   Wurmcoil Engine                                                  
+54   Brain Freeze                                                     
+54   Bayou                                                            
+54   Dark Petition                                                    
+54   Daretti, Scrap Savant                                            
+54   Fatal Push                                                       
+54   High Tide                                                        
+54   Hypnotic Specter                                                 
+54   Kiki-Jiki, Mirror Breaker                                        
+54   Lodestone Golem                                                  
+54   Mutavault                                                        
+54   Phantasmal Image                                                 
+54   Phyrexian Arena                                                  
+54   Remorseful Cleric                                                
+54   Reveillark                                                       
+54   Ravenous Chupacabra                                              
+54   Rakdos's Return                                                  
+54   Sun Titan                                                        
+54   Street Wraith                                                    
+54   Shallow Grave                                                    
+54   Scrubland                                                        
+54   Scroll Rack                                                      
+54   Time Warp                                                        
+54   Wishclaw Talisman                                                
+54   Wrenn and Six                                                    
+55   Smokestack                                                       
+55   Thalia, Guardian of Thraben                                      
+56   Batterskull                                                      
+56   Emrakul, the Aeons Torn                                          
+56   Impulse                                                          
 
 tier 4 cards:
-	Abbot of Keral Keep
-	Ajani Vengeant
-	Arbor Elf
-	Armageddon
-	Ashen Rider
-	Assassin's Trophy
-	Avacyn's Pilgrim
-	Avalanche Riders
-	Avenger of Zendikar
-	Blade Splicer
-	Bloodbraid Elf
-	Bomat Courier
-	Breeding Pool
-	Brimaz, King of Oreskos
-	Carnage Tyrant
-	Chain Lightning
-	Coalition Relic
-	Coercive Portal
-	Collective Brutality
-	Collector Ouphe
-	Containment Priest
-	Corpse Dance
-	Council's Judgment
-	Crop Rotation
-	Cultivate
-	Dark Depths
-	Day of Judgment
-	Declaration in Stone
-	Deep Forest Hermit
-	Dire Fleet Daredevil
-	Dragonlord Atarka
-	Dreadbore
-	Dreadhorde Arcanist
-	Duress
-	Eidolon of the Great Revel
-	Eladamri's Call
-	Electrolyze
-	Elesh Norn, Grand Cenobite
-	Elspeth, Knight-Errant
-	Elvish Mystic
-	Elvish Reclaimer
-	Enlightened Tutor
-	Entomb
-	Everflowing Chalice
-	Figure of Destiny
-	Finale of Devastation
-	Firedrinker Satyr
-	Flame Slash
-	Flametongue Kavu
-	Flickerwisp
-	Force Spike
-	Gaea's Cradle
-	Gamble
-	Gifts Ungiven
-	Giver of Runes
-	Glorybringer
-	Goblin Guide
-	Gonti, Lord of Luxury
-	Grave Titan
-	Griselbrand
-	Harmonize
-	Hazoret the Fervent
-	Heartbeat of Spring
-	Hellrider
-	Hero of Bladehold
-	Hexdrinker
-	Hissing Quagmire
-	Horizon Canopy
-	Hornet Queen
-	Hydroid Krasis
-	Hymn to Tourach
-	Ignite Memories
-	Inferno Titan
-	Inkwell Leviathan
-	Isamaru, Hound of Konda
-	Joraga Treespeaker
-	Karn Liberated
-	Kinnan, Bonder Prodigy
-	Kitchen Finks
-	Kitesail Freebooter
-	Kodama's Reach
-	Koth of the Hammer
-	Kozilek, Butcher of Truth
-	Lightning Bolt
-	Lingering Souls
-	Lion's Eye Diamond
-	Llanowar Elves
-	Lumbering Falls
-	Maelstrom Pulse
-	Magma Jet
-	Makeshift Mannequin
-	Mana Tithe
-	Massacre Wurm
-	Maze of Ith
-	Melira, Sylvok Outcast
-	Mesmeric Fiend
-	Mirari's Wake
-	Moat
-	Monastery Swiftspear
-	Murderous Rider
-	Mystic Confluence
-	Necromancy
-	Needle Spires
-	Nissa, Who Shakes the World
-	Nurturing Peatland
-	Oath of Druids
-	Oona's Prowler
-	Overgrown Tomb
-	Pack Rat
-	Parallax Wave
-	Past in Flames
-	Path to Exile
-	Pernicious Deed
-	Pia and Kiran Nalaar
-	Primeval Titan
-	Putrid Imp
-	Questing Beast
-	Ravages of War
-	Reanimate
-	Reclamation Sage
-	Regrowth
-	Repeal
-	Riftwing Cloudskate
-	Rite of Flame
-	Rofellos, Llanowar Emissary
-	Rotting Regisaur
-	Rune-Scarred Demon
-	Sakura-Tribe Elder
-	Savannah
-	Scavenging Ooze
-	Seething Song
-	Selesnya Signet
-	Selfless Spirit
-	Shriekmaw
-	Skymarcher Aspirant
-	Soldier of the Pantheon
-	Spectral Procession
-	Spirebluff Canal
-	Spirit of the Labyrinth
-	Stirring Wildwood
-	Stonecoil Serpent
-	Stormblood Berserker
-	Stromkirk Noble
-	Student of Warfare
-	Sulfuric Vortex
-	Survival of the Fittest
-	Sword of Feast and Famine
-	Sword of Fire and Ice
-	Sylvan Caryatid
-	Sylvan Library
-	Tangle Wire
-	Terminus
-	The Scarab God
-	Thespian's Stage
-	Thragtusk
-	Through the Breach
-	Tidehollow Sculler
-	Tireless Tracker
-	Ugin, the Spirit Dragon
-	Unburial Rites
-	Unexpectedly Absent
-	Usher of the Fallen
-	Valakut Exploration
-	Vampire Hexmage
-	Viscera Seer
-	Volrath's Stronghold
-	Vorinclex, Monstrous Raider
-	Vraska, Golgari Queen
-	Wall of Blossoms
-	Wall of Roots
-	Winds of Abandon
-	Woe Strider
-	Wooded Foothills
-	Woodfall Primus
-	Worldly Tutor
-	Wrath of God
-	Zuran Orb
-	Zurgo Bellstriker
+57   Zealous Conscripts                                               
+58   Burst Lightning                                                  
+58   Badlands                                                         
+58   Deranged Hermit                                                  
+58   Frantic Search                                                   
+58   Fyndhorn Elves                                                   
+58   Jeska's Will                                                     
+58   Murderous Redcap                                                 
+58   Nahiri, the Harbinger                                            
+58   Ophiomancer                                                      
+58   Palinchron                                                       
+58   Porcelain Legionnaire                                            
+58   Phyrexian Metamorph                                              
+58   Recruiter of the Guard                                           
+58   Ramunap Excavator                                                
+58   Raging Ravine                                                    
+58   Tezzeret, Agent of Bolas                                         
+58   Taiga                                                            
+58   Vindicate                                                        
+58   Verdant Catacombs                                                
+59   Beast Within                                                     
+59   Iona, Shield of Emeria                                           
+60   Banefire                                                         
+60   Lotus Cobra                                                      
+60   Oust                                                             
+61   Baleful Strix                                                    
+61   Blackcleave Cliffs                                               
+61   Consecrated Sphinx                                               
+61   Faithless Looting                                                
+61   Firebolt                                                         
+61   Fauna Shaman                                                     
+61   Gideon Jura                                                      
+61   Gruul Signet                                                     
+61   Jace, Wielder of Mysteries                                       
+61   Karmic Guide                                                     
+61   Kargan Intimidator                                               
+61   Kari Zev, Skyship Raider                                         
+61   Lotus Bloom                                                      
+61   Opposition                                                       
+61   Restoration Angel                                                
+61   Shrine of Burning Rage                                           
+61   Smuggler's Copter                                                
+61   The Tabernacle at Pendrell Vale                                  
+62   Ancient Grudge                                                   
+63   Legion Warboss                                                   
+63   Nissa, Vastwood Seer                                             
+64   Recurring Nightmare                                              
+65   Baral, Chief of Compliance                                       
+65   Bloodghast                                                       
+65   Burning of Xinye                                                 
+65   Bazaar of Baghdad                                                
+65   Doom Whisperer                                                   
+65   Damnation                                                        
+65   Emrakul, the Promised End                                        
+65   Giant Killer                                                     
+65   Glen Elendra Archmage                                            
+65   Go for the Throat                                                
+65   Grim Lavamancer                                                  
+65   Garruk Relentless                                                
+65   Garruk Wildspeaker                                               
+65   Green Sun's Zenith                                               
+65   Gaddock Teeg                                                     
+65   Leonin Relic-Warder                                              
+65   Liliana, the Last Hope                                           
+65   Living Death                                                     
+65   Lightning Helix                                                  
+65   Plow Under                                                       
+65   Thalia, Heretic Cathar                                           
+65   Terastodon                                                       
+65   Young Pyromancer                                                 
+66   Archangel Avacyn                                                 
+67   Avacyn's Pilgrim                                                 
+67   Ashen Rider                                                      
+67   Blade Splicer                                                    
+67   Collective Brutality                                             
+67   Dreadhorde Arcanist                                              
+67   Elspeth, Knight-Errant                                           
+67   Enlightened Tutor                                                
+67   Hymn to Tourach                                                  
+67   Hexdrinker                                                       
+67   Kodama's Reach                                                   
+67   Lingering Souls                                                  
+67   Lion's Eye Diamond                                               
+67   Mirari's Wake                                                    
+67   Questing Beast                                                   
+67   Shriekmaw                                                        
+67   Tireless Tracker                                                 
+67   Tangle Wire                                                      
+67   Volrath's Stronghold                                             
+67   Wall of Roots                                                    
+67   Zuran Orb                                                        
+68   Armageddon                                                       
+68   Abbot of Keral Keep                                              
+68   Avalanche Riders                                                 
+68   Arbor Elf                                                        
+68   Avenger of Zendikar                                              
+68   Assassin's Trophy                                                
+68   Ajani Vengeant                                                   
+68   Brimaz, King of Oreskos                                          
+68   Bomat Courier                                                    
+68   Bloodbraid Elf                                                   
+68   Breeding Pool                                                    
+68   Containment Priest                                               
+68   Council's Judgment                                               
+68   Corpse Dance                                                     
+68   Chain Lightning                                                  
+68   Collector Ouphe                                                  
+68   Carnage Tyrant                                                   
+68   Crop Rotation                                                    
+68   Cultivate                                                        
+68   Coalition Relic                                                  
+68   Coercive Portal                                                  
+68   Declaration in Stone                                             
+68   Day of Judgment                                                  
+68   Duress                                                           
+68   Dire Fleet Daredevil                                             
+68   Deep Forest Hermit                                               
+68   Dreadbore                                                        
+68   Dragonlord Atarka                                                
+68   Dark Depths                                                      
+68   Elesh Norn, Grand Cenobite                                       
+68   Entomb                                                           
+68   Eidolon of the Great Revel                                       
+68   Elvish Mystic                                                    
+68   Elvish Reclaimer                                                 
+68   Eladamri's Call                                                  
+68   Electrolyze                                                      
+68   Everflowing Chalice                                              
+68   Flickerwisp                                                      
+68   Force Spike                                                      
+68   Firedrinker Satyr                                                
+68   Flametongue Kavu                                                 
+68   Flame Slash                                                      
+68   Finale of Devastation                                            
+68   Figure of Destiny                                                
+68   Giver of Runes                                                   
+68   Gifts Ungiven                                                    
+68   Gonti, Lord of Luxury                                            
+68   Grave Titan                                                      
+68   Griselbrand                                                      
+68   Goblin Guide                                                     
+68   Glorybringer                                                     
+68   Gamble                                                           
+68   Gaea's Cradle                                                    
+68   Hero of Bladehold                                                
+68   Hazoret the Fervent                                              
+68   Hellrider                                                        
+68   Hornet Queen                                                     
+68   Harmonize                                                        
+68   Heartbeat of Spring                                              
+68   Horizon Canopy                                                   
+68   Hissing Quagmire                                                 
+68   Hydroid Krasis                                                   
+68   Isamaru, Hound of Konda                                          
+68   Inkwell Leviathan                                                
+68   Inferno Titan                                                    
+68   Ignite Memories                                                  
+68   Joraga Treespeaker                                               
+68   Kitesail Freebooter                                              
+68   Koth of the Hammer                                               
+68   Kitchen Finks                                                    
+68   Kinnan, Bonder Prodigy                                           
+68   Kozilek, Butcher of Truth                                        
+68   Karn Liberated                                                   
+68   Lightning Bolt                                                   
+68   Llanowar Elves                                                   
+68   Lumbering Falls                                                  
+68   Mana Tithe                                                       
+68   Moat                                                             
+68   Mystic Confluence                                                
+68   Mesmeric Fiend                                                   
+68   Murderous Rider                                                  
+68   Massacre Wurm                                                    
+68   Makeshift Mannequin                                              
+68   Monastery Swiftspear                                             
+68   Magma Jet                                                        
+68   Melira, Sylvok Outcast                                           
+68   Maelstrom Pulse                                                  
+68   Maze of Ith                                                      
+68   Necromancy                                                       
+68   Nissa, Who Shakes the World                                      
+68   Nurturing Peatland                                               
+68   Needle Spires                                                    
+68   Oona's Prowler                                                   
+68   Oath of Druids                                                   
+68   Overgrown Tomb                                                   
+68   Path to Exile                                                    
+68   Parallax Wave                                                    
+68   Putrid Imp                                                       
+68   Pack Rat                                                         
+68   Pia and Kiran Nalaar                                             
+68   Past in Flames                                                   
+68   Primeval Titan                                                   
+68   Pernicious Deed                                                  
+68   Ravages of War                                                   
+68   Riftwing Cloudskate                                              
+68   Repeal                                                           
+68   Rotting Regisaur                                                 
+68   Rune-Scarred Demon                                               
+68   Reanimate                                                        
+68   Rite of Flame                                                    
+68   Rofellos, Llanowar Emissary                                      
+68   Reclamation Sage                                                 
+68   Regrowth                                                         
+68   Skymarcher Aspirant                                              
+68   Soldier of the Pantheon                                          
+68   Student of Warfare                                               
+68   Selfless Spirit                                                  
+68   Spirit of the Labyrinth                                          
+68   Spectral Procession                                              
+68   Stromkirk Noble                                                  
+68   Stormblood Berserker                                             
+68   Seething Song                                                    
+68   Sulfuric Vortex                                                  
+68   Sakura-Tribe Elder                                               
+68   Scavenging Ooze                                                  
+68   Sylvan Caryatid                                                  
+68   Survival of the Fittest                                          
+68   Sylvan Library                                                   
+68   Savannah                                                         
+68   Stirring Wildwood                                                
+68   Spirebluff Canal                                                 
+68   Stonecoil Serpent                                                
+68   Selesnya Signet                                                  
+68   Sword of Feast and Famine                                        
+68   Sword of Fire and Ice                                            
+68   Terminus                                                         
+68   Through the Breach                                               
+68   Thragtusk                                                        
+68   The Scarab God                                                   
+68   Tidehollow Sculler                                               
+68   Thespian's Stage                                                 
+68   Unexpectedly Absent                                              
+68   Unburial Rites                                                   
+68   Ugin, the Spirit Dragon                                          
+68   Usher of the Fallen                                              
+68   Viscera Seer                                                     
+68   Vampire Hexmage                                                  
+68   Valakut Exploration                                              
+68   Vraska, Golgari Queen                                            
+68   Vorinclex, Monstrous Raider                                      
+68   Winds of Abandon                                                 
+68   Wrath of God                                                     
+68   Woe Strider                                                      
+68   Wall of Blossoms                                                 
+68   Woodfall Primus                                                  
+68   Worldly Tutor                                                    
+68   Wooded Foothills                                                 
+68   Zurgo Bellstriker                                                
 
+unpicked cards:
+Giver of Runes
+Isamaru, Hound of Konda
+Skymarcher Aspirant
+Soldier of the Pantheon
+Student of Warfare
+Containment Priest
+Selfless Spirit
+Spirit of the Labyrinth
+Brimaz, King of Oreskos
+Flickerwisp
+Hero of Bladehold
+Elesh Norn, Grand Cenobite
+Mana Tithe
+Path to Exile
+Unexpectedly Absent
+Declaration in Stone
+Winds of Abandon
+Council's Judgment
+Armageddon
+Day of Judgment
+Ravages of War
+Wrath of God
+Spectral Procession
+Terminus
+Moat
+Parallax Wave
+Riftwing Cloudskate
+Inkwell Leviathan
+Force Spike
+Repeal
+Gifts Ungiven
+Mystic Confluence
+Putrid Imp
+Viscera Seer
+Kitesail Freebooter
+Mesmeric Fiend
+Oona's Prowler
+Pack Rat
+Vampire Hexmage
+Murderous Rider
+Rotting Regisaur
+Woe Strider
+Gonti, Lord of Luxury
+Grave Titan
+Massacre Wurm
+Griselbrand
+Rune-Scarred Demon
+Entomb
+Corpse Dance
+Makeshift Mannequin
+Duress
+Reanimate
+Necromancy
+Bomat Courier
+Firedrinker Satyr
+Goblin Guide
+Monastery Swiftspear
+Stromkirk Noble
+Zurgo Bellstriker
+Abbot of Keral Keep
+Dire Fleet Daredevil
+Eidolon of the Great Revel
+Stormblood Berserker
+Avalanche Riders
+Flametongue Kavu
+Hazoret the Fervent
+Hellrider
+Pia and Kiran Nalaar
+Glorybringer
+Inferno Titan
+Koth of the Hammer
+Lightning Bolt
+Magma Jet
+Seething Song
+Through the Breach
+Chain Lightning
+Flame Slash
+Gamble
+Rite of Flame
+Past in Flames
+Ignite Memories
+Sulfuric Vortex
+Valakut Exploration
+Arbor Elf
+Elvish Mystic
+Elvish Reclaimer
+Joraga Treespeaker
+Llanowar Elves
+Collector Ouphe
+Melira, Sylvok Outcast
+Rofellos, Llanowar Emissary
+Sakura-Tribe Elder
+Scavenging Ooze
+Sylvan Caryatid
+Wall of Blossoms
+Reclamation Sage
+Deep Forest Hermit
+Thragtusk
+Carnage Tyrant
+Primeval Titan
+Avenger of Zendikar
+Hornet Queen
+Woodfall Primus
+Nissa, Who Shakes the World
+Crop Rotation
+Worldly Tutor
+Finale of Devastation
+Regrowth
+Cultivate
+Harmonize
+Oath of Druids
+Survival of the Fittest
+Sylvan Library
+Heartbeat of Spring
+Gaea's Cradle
+The Scarab God
+Dreadbore
+Wooded Foothills
+Bloodbraid Elf
+Dragonlord Atarka
+Horizon Canopy
+Savannah
+Stirring Wildwood
+Eladamri's Call
+Kitchen Finks
+Tidehollow Sculler
+Unburial Rites
+Hissing Quagmire
+Nurturing Peatland
+Overgrown Tomb
+Assassin's Trophy
+Maelstrom Pulse
+Pernicious Deed
+Vraska, Golgari Queen
+Breeding Pool
+Lumbering Falls
+Hydroid Krasis
+Kinnan, Bonder Prodigy
+Spirebluff Canal
+Electrolyze
+Figure of Destiny
+Needle Spires
+Ajani Vengeant
+Stonecoil Serpent
+Kozilek, Butcher of Truth
+Karn Liberated
+Ugin, the Spirit Dragon
+Everflowing Chalice
+Selesnya Signet
+Coalition Relic
+Sword of Feast and Famine
+Sword of Fire and Ice
+Coercive Portal
+Dark Depths
+Maze of Ith
+Thespian's Stage
+Usher of the Fallen
+Vorinclex, Monstrous Raider

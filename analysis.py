@@ -1,8 +1,17 @@
+import os
+
+
 def print_quartiles(cards):
     picked_card_weights = []
-    for card_info in cards.values():
-        if card_info[1]:
-            picked_card_weights.append(card_info[0])
+    unpicked_cards = []
+    for cardname, card_info in cards.items():
+        seen = card_info[1]
+        weight = card_info[0]
+        if seen:
+            if weight == 0:
+                unpicked_cards.append(cardname)
+            else:
+                picked_card_weights.append(card_info[0])
     median = sum(picked_card_weights) / len(picked_card_weights)
     lower_half = [weight for weight in picked_card_weights if weight < median]
     upper_half = [weight for weight in picked_card_weights if weight >= median]
@@ -49,6 +58,13 @@ def print_quartiles(cards):
             key=lambda item: item[0],
         )
     )
+    print_ranks(cards, fourths)
+    print("unpicked cards:")
+    for unpicked_card in unpicked_cards:
+        print(f"{unpicked_card}")
+
+
+def print_ranks(cards, fourths):
     rank = 1
     worst_weight = 1
     for i, cardnames in enumerate(fourths):
