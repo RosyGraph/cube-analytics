@@ -1,0 +1,27 @@
+drafter: Jorbas
+	average cmc: 2.5296296296296297
+	color preferences:
+		W: 0.23
+		U: 0.27
+		B: 0.16
+		R: 0.23
+		G: 0.13
+		X: 0.16
+drafter: RosyGraph
+	average cmc: 2.6222222222222222
+	color preferences:
+		W: 0.17
+		U: 0.28
+		B: 0.23
+		R: 0.19
+		G: 0.16
+		X: 0.21
+drafter: Waluigi
+	average cmc: 2.3407407407407406
+	color preferences:
+		W: 0.16
+		U: 0.29
+		B: 0.22
+		R: 0.13
+		G: 0.19
+		X: 0.22
